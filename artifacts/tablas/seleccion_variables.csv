@@ -1,0 +1,9 @@
+N_Variables,Variables,Gini_Train,Gini_Test
+10,"InternetService, Contract, PaperlessBilling, StreamingTV, StreamingMovies, PaymentMethod, Partner, tenure, MonthlyCharges, TotalCharges",0.6898,0.6704
+9,"InternetService, Contract, PaperlessBilling, StreamingTV, StreamingMovies, PaymentMethod, Partner, tenure, MonthlyCharges",0.6833,0.6657
+8,"InternetService, Contract, PaperlessBilling, StreamingTV, StreamingMovies, PaymentMethod, Partner, tenure",0.6819,0.6647
+7,"InternetService, Contract, PaperlessBilling, StreamingTV, StreamingMovies, PaymentMethod, Partner",0.6471,0.606
+6,"InternetService, Contract, PaperlessBilling, StreamingTV, StreamingMovies, PaymentMethod",0.6399,0.6043
+5,"InternetService, Contract, PaperlessBilling, StreamingTV, StreamingMovies",0.6241,0.5828
+4,"InternetService, Contract, PaperlessBilling, StreamingTV",0.6237,0.5828
+3,"InternetService, Contract, PaperlessBilling",0.6195,0.5882
